@@ -58,7 +58,6 @@ public class Calculadora {
         binarios[0] = numero_binario1;
         binarios[1] = numero_binario2;
         
-//        System.out.printf("Binario: %.0f %n", numero_binario1);
         return binarios;
         
     }  
